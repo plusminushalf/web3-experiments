@@ -1,0 +1,24 @@
+{
+  "name": "web3-experiments",
+  "version": "0.0.1",
+  "description": "Project to host my web3 experimental contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/garvitdelhi/web3-experiments.git"
+  },
+  "keywords": [
+    "web3",
+    "crypto",
+    "ethereum"
+  ],
+  "author": "garvitdelhi@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garvitdelhi/web3-experiments/issues"
+  },
+  "homepage": "https://github.com/garvitdelhi/web3-experiments#readme"
+}
